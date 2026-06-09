@@ -46,7 +46,6 @@ I like working on visual details, reusable components, UI architecture and front
 ![Accessible UI](https://img.shields.io/badge/Accessible%20UI-111827?style=flat)
 ![UI Kit](https://img.shields.io/badge/UI%20Kit-111827?style=flat)
 ![Component Architecture](https://img.shields.io/badge/Component%20Architecture-111827?style=flat)
-![SSR](https://img.shields.io/badge/SSR-111827?style=flat)
 ![SEO](https://img.shields.io/badge/SEO-111827?style=flat)
 ![FSD](https://img.shields.io/badge/FSD-111827?style=flat)
 
