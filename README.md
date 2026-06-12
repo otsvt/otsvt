@@ -48,19 +48,6 @@ I like working on visual details, reusable components, UI architecture and front
 ![SEO](https://img.shields.io/badge/SEO-111827?style=flat)
 ![FSD](https://img.shields.io/badge/FSD-111827?style=flat)
 
----
-
-## 💼 What I focus on
-
-- Semantic, responsive and maintainable markup
-- Clean and polished user interfaces
-- Reusable UI components and UI-kit architecture
-- Complex frontend logic for real products
-- SSR, SEO and structured page metadata
-- Real-time interfaces, forms, filters and interactive user flows
-
----
-
 ## 📫 Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-@otsvt-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/otsvt)
