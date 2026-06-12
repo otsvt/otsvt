@@ -48,6 +48,8 @@ I like working on visual details, reusable components, UI architecture and front
 ![SEO](https://img.shields.io/badge/SEO-111827?style=flat)
 ![FSD](https://img.shields.io/badge/FSD-111827?style=flat)
 
+---
+
 ## 📫 Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-@otsvt-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/otsvt)
